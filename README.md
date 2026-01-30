@@ -269,6 +269,5 @@ npm install
 
 ## ⭐ Support
 ---
-⭐ **If you enjoyed playing this game or found the code helpful, please consider giving it a star!**
+⭐ **If you liked our project, please consider giving it a star!**
 
-🎮 **Happy Gaming!** 🍔🐱💨
