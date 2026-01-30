@@ -1,12 +1,7 @@
 # 🏦 Nexus Core Banking System
 
-A comprehensive, production-ready web application demonstrating enterprise-level banking operations with modern web technologies.
 
-
-
-## 🌟 Overview
-
-Nexus Core Banking System is a full-featured banking platform with separate interfaces for administrators and customers, implementing industry-standard banking workflows and security practices. This system provides a complete banking ecosystem with customer management, account services, transaction processing, and administrative controls.
+A comprehensive, production-ready web application demonstrating enterprise-level banking operations with modern web technologies.Nexus Core Banking System is a full-featured banking platform with separate interfaces for administrators and customers, implementing industry-standard banking workflows and security practices. This system provides a complete banking ecosystem with customer management, account services, transaction processing, and administrative controls.
 
 ### Key Highlights
 
