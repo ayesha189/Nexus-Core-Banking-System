@@ -9,19 +9,6 @@ A comprehensive, production-ready web application demonstrating enterprise-level
 
 ![Nexus Banking Dashboard](https://via.placeholder.com/800x400?text=Nexus+Core+Banking+System)
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🌟 Overview
 
 Nexus Core Banking System is a full-featured banking platform with separate interfaces for administrators and customers, implementing industry-standard banking workflows and security practices. This system provides a complete banking ecosystem with customer management, account services, transaction processing, and administrative controls.
@@ -255,15 +242,6 @@ Customer (1) ──── (Many) PasswordResetRequest
 - [ ] Enhanced data encryption
 - [ ] Auto-logout and session timeout
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ### Development Guidelines
 
@@ -298,13 +276,16 @@ npm install
 ✅ Safari (latest)  
 ✅ Microsoft Edge (latest)
 
+---
+
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is created for educational purposes as part of a university course assignment.
 
+---
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Ayesha rauf**  - [https://github.com/ayesha189]
 
 ## 🙏 Acknowledgments
 
@@ -313,18 +294,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons by [Lucide](https://lucide.dev/)
 - Charts powered by [Recharts](https://recharts.org/)
 
-## 📞 Support
 
-For questions or issues, please:
-- Open an [issue](https://github.com/yourusername/nexus-banking-system/issues)
-- Contact: your.email@example.com
 
 ---
 
-<div align="center">
+## ⭐ Show Your Support
 
-**⭐ Star this repository if you found it helpful!**
+If you found this project helpful or interesting, please consider giving it a ⭐!
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+---
 
-</div>
