@@ -270,6 +270,5 @@ npm install
 
 ## ⭐ Support
 
-
-⭐ **If you liked our project, please consider giving it a star!**
+-If you liked our project, please consider giving it a star!**
 
