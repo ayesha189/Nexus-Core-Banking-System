@@ -1,13 +1,8 @@
 # 🏦 Nexus Core Banking System
 
-[![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=flat&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-6.2.0-646CFF?style=flat&logo=vite)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 A comprehensive, production-ready web application demonstrating enterprise-level banking operations with modern web technologies.
 
-![Nexus Banking Dashboard](https://via.placeholder.com/800x400?text=Nexus+Core+Banking+System)
+
 
 ## 🌟 Overview
 
