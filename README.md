@@ -265,7 +265,6 @@ npm install
 **Course**: Database System 
 **Project Type**: Final Project  
 
----
 
 
 ## ⭐ Support
